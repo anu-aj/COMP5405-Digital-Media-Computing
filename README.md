@@ -1,5 +1,5 @@
 # COMP5405-Digital-Media-Computing
-# GitHub README: Dual-Stream Sign Language Translation Framework
+# Dual-Stream Sign Language Translation Framework
 
 This repository contains the implementation of a high-performance, multi-modal framework for **Gloss-Free Continuous Sign Language Recognition (CSLR)**. By integrating structural motion analysis with raw visual context, this system provides a scalable communication bridge for the Deaf and Hard of Hearing (DHH) community.
 
