@@ -2,6 +2,9 @@
 ### COMP 5405 Digital Media Computing — Group 11 (University of Sydney)
 **Contributors:** Yvette Chen (`yche0044`), Javier Marin (`jmar0565`), Anugraha Jawahar (`ajaw0192`)
 
+### Master Data-set 
+**Kaggle-link:** https://www.kaggle.com/datasets/mrgeislinger/popsign-asl-v1-0-game-train-a-e-signs 
+Custom data set was extracted and used for training the model
 ---
 
 ## 🚀 Project Overview
