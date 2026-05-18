@@ -102,7 +102,7 @@ The global asset index maps are randomly segregated into strict partitions to ev
 * **Test Set (10%):** Locked away until final post-training evaluation to record unseen execution accuracy.
 
 ### 3.2 Optimization Space Configuration
-* **Optimization Framework:** AdamW optimizer with a strict base learning rate of $3 	imes 10^{-4}$ and an L2 regularization weight decay configuration of $1 	imes 10^{-4}$.
+* **Optimization Framework:** AdamW optimizer with a strict base learning rate of $3 	\times 10^{-4}$ and an L2 regularization weight decay configuration of $1 \times 10^{-4}$.
 * **Objective Function:** Cross-Entropy loss modified with a **Label Smoothing factor of 0.1** to artificially soften hard target truth vectors, guarding against overconfident boundary predictions.
 * **Learning Rate Schedule:** Implements a linear warmup window over the first 50 global optimization steps, followed by a **Cosine Annealing decay pattern** to guide convergence precisely toward deep local minima.
 
